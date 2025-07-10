@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("87841755-b665-40a5-87c9-b9f79a255137")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniEcommerce.ShoppingCarts.WebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d38996678d9d119804f0c5eea0889202c90bc5e8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c43b673c17c02fc2014445f723077f1f193c7ef1")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniEcommerce.ShoppingCarts.WebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniEcommerce.ShoppingCarts.WebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
