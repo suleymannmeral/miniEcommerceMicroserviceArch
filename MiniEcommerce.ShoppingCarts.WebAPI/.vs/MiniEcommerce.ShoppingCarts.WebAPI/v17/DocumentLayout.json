@@ -7,14 +7,6 @@
       "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -23,8 +15,36 @@
       "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Migrations\\20250710071411_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250710071411_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\dtos\\changeproductstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:dtos\\changeproductstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\dtos\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:dtos\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:dtos\\createorderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\dtos\\createshoppingcartdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,20 +55,8 @@
       "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:dtos\\shoppingcarddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\dtos\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:dtos\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.shoppingcarts.webapi\\migrations\\20250710071411_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1AD69DD-D983-42AB-AC60-642305D32E61}|MiniEcommerce.ShoppingCarts.WebAPI.csproj|solutionrelative:migrations\\20250710071411_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,98 +82,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-10T07:39:40.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T07:20:25.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20250710071411_mg1.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Migrations\\20250710071411_mg1.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250710071411_mg1.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Migrations\\20250710071411_mg1.cs",
-              "RelativeToolTip": "Migrations\\20250710071411_mg1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T07:14:11.901Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\appsettings.Development.json",
-              "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T07:12:09.709Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-10T07:12:08.167Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T07:12:08.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\DTOs\\Result.cs",
               "RelativeDocumentMoniker": "DTOs\\Result.cs",
               "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\DTOs\\Result.cs",
               "RelativeToolTip": "DTOs\\Result.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T07:06:56.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T07:06:56.141Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 7,
               "Title": "ProductDto.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\DTOs\\ProductDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ProductDto.cs",
               "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\DTOs\\ProductDto.cs",
               "RelativeToolTip": "DTOs\\ProductDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T06:58:18.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-10T06:58:18.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "ShoppingCardDto.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\DTOs\\ShoppingCardDto.cs",
               "RelativeDocumentMoniker": "DTOs\\ShoppingCardDto.cs",
@@ -173,8 +126,19 @@
               "RelativeToolTip": "DTOs\\ShoppingCardDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:16:17.654Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:16:17.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T12:10:00.475Z"
             },
             {
               "$type": "Document",
@@ -184,14 +148,75 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAGMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T12:15:41.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T07:12:09.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250710071411_mg1.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Migrations\\20250710071411_mg1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250710071411_mg1.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Migrations\\20250710071411_mg1.cs",
+              "RelativeToolTip": "Migrations\\20250710071411_mg1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:14:11.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-10T07:20:25.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-10T07:39:40.898Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "ChangeProductStockDto.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\DTOs\\ChangeProductStockDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ChangeProductStockDto.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\DTOs\\ChangeProductStockDto.cs",
+              "RelativeToolTip": "DTOs\\ChangeProductStockDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T11:52:30.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "CreateShoppingCartDto.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\DTOs\\CreateShoppingCartDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CreateShoppingCartDto.cs",
@@ -199,34 +224,31 @@
               "RelativeToolTip": "DTOs\\CreateShoppingCartDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:13:09.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:13:09.059Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ShoppingCart.cs",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Models\\ShoppingCart.cs",
-              "RelativeDocumentMoniker": "Models\\ShoppingCart.cs",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Models\\ShoppingCart.cs",
-              "RelativeToolTip": "Models\\ShoppingCart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:10:00.475Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T12:09:01.278Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T12:09:01.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateOrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\DTOs\\CreateOrderDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateOrderDto.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.ShoppingCarts.WebAPI\\DTOs\\CreateOrderDto.cs",
+              "RelativeToolTip": "DTOs\\CreateOrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T07:56:23.147Z"
             }
           ]
         }

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.products.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.products.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.products.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -11,16 +19,16 @@
       "RelativeMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.products.webapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.products.webapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.products.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Migrations\\20250709102021_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250709102021_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.products.webapi\\dtos\\changeproductstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|solutionrelative:dtos\\changeproductstockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.products.webapi\\assemblyreference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,12 +47,8 @@
       "RelativeMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.products.webapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.products.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|c:\\users\\suley\\source\\repos\\miniecommerce\\miniecommerce.products.webapi\\migrations\\20250709102021_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DCB953C-04A5-49E6-9295-F05D087EAF5A}|MiniEcommerce.Products.WebAPI.csproj|solutionrelative:migrations\\20250709102021_mg1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,20 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-09T11:21:14.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ProductConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Configuration\\ProductConfiguration.cs",
               "RelativeDocumentMoniker": "Configuration\\ProductConfiguration.cs",
@@ -91,12 +82,11 @@
               "RelativeToolTip": "Configuration\\ProductConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:11:50.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T10:11:50.407Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "AssemblyReference.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\AssemblyReference.cs",
               "RelativeDocumentMoniker": "AssemblyReference.cs",
@@ -104,12 +94,11 @@
               "RelativeToolTip": "AssemblyReference.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:10:50.953Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T10:10:50.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CreateProductDto.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\DTOs\\CreateProductDto.cs",
               "RelativeDocumentMoniker": "DTOs\\CreateProductDto.cs",
@@ -117,12 +106,11 @@
               "RelativeToolTip": "DTOs\\CreateProductDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:09:25.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T10:09:25.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -135,46 +123,84 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T10:05:41.459Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 5,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T11:21:14.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "ApplicationDBContext.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Context\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Context\\ApplicationDBContext.cs",
               "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Context\\ApplicationDBContext.cs",
               "RelativeToolTip": "Context\\ApplicationDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T09:55:31.314Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
               "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAByAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-09T10:06:20.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-09T10:32:08.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangeProductStockDto.cs",
+              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\DTOs\\ChangeProductStockDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ChangeProductStockDto.cs",
+              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\DTOs\\ChangeProductStockDto.cs",
+              "RelativeToolTip": "DTOs\\ChangeProductStockDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T10:37:21.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "20250709102021_mg1.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Migrations\\20250709102021_mg1.cs",
               "RelativeDocumentMoniker": "Migrations\\20250709102021_mg1.cs",
@@ -182,25 +208,11 @@
               "RelativeToolTip": "Migrations\\20250709102021_mg1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T10:20:21.99Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T10:20:21.99Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-09T10:32:08.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\suley\\source\\repos\\miniEcommerce\\MiniEcommerce.Products.WebAPI\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -208,8 +220,7 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-09T09:57:24.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-09T09:57:24.869Z"
             }
           ]
         }

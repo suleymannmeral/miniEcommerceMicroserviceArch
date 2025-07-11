@@ -136,3 +136,4 @@ C:\Users\suley\source\repos\miniEcommerce\MiniEcommerce.Products.WebAPI\obj\Debu
 C:\Users\suley\source\repos\miniEcommerce\MiniEcommerce.Products.WebAPI\obj\Debug\net8.0\MiniEcommerce.Products.WebAPI.genruntimeconfig.cache
 C:\Users\suley\source\repos\miniEcommerce\MiniEcommerce.Products.WebAPI\obj\Debug\net8.0\ref\MiniEcommerce.Products.WebAPI.dll
 C:\Users\suley\source\repos\miniEcommerce\MiniEcommerce.Products.WebAPI\bin\Debug\net8.0\TS.Result.dll
+C:\Users\suley\source\repos\miniEcommerce\MiniEcommerce.Products.WebAPI\obj\Debug\net8.0\MiniEcommerce.Products.WebAPI.sourcelink.json
