@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using MiniEcommerce.Gateway.YARP.Models;
 
 namespace MiniEcommerce.Gateway.YARP.Context
 {
@@ -8,6 +9,7 @@ namespace MiniEcommerce.Gateway.YARP.Context
         {
         }
 
-       
+        public DbSet<User> Users { get; set; }
+
     }
 }

@@ -1,0 +1,32 @@
+<div class="row d-flex" style="height: 98vh; align-items: center; justify-content: center;">
+    <div class="col-md-4 col-12">
+        <div class="card">
+            <div class="card-header">
+                <h1>Register Page</h1>
+                <p>Fill the all  fields for register</p>
+            </div>
+            <div class="card-body">
+        <div class="formGroup">
+            <label for="">Username</label>
+            <input [(ngModel)]="model().userName" type="text" class="form-control">
+        </div>
+
+        <div class="formGroup mt-1">
+        <label for="">Password</label>
+        <input  [(ngModel)]="model().password" type="password" class="form-control">
+        </div>
+        
+        <div class="formGroup mt-1">
+          <button class="btn btn-primary w-100" (click)="register()">Register</button>
+        </div>
+
+        <div class="formGroup mt-1">
+            <a routerLink="/login">Do you have account already? Login</a>
+        </div>
+            </div>
+        </div>
+       
+        
+
+    </div>
+</div>

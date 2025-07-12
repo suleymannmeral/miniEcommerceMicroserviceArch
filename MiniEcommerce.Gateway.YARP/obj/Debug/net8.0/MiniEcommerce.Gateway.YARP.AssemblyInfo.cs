@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("49a9f15f-67ea-4e50-9210-9572b5f2843d")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiniEcommerce.Gateway.YARP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddac1a4e67f4b06fa5805e7d9f1473cc37aff489")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d57922de82428db68b42746a19c427ca6ce11b0c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiniEcommerce.Gateway.YARP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiniEcommerce.Gateway.YARP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

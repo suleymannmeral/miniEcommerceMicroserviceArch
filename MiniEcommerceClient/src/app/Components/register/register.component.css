@@ -1,0 +1,7 @@
+.custom-snackbar-error {
+  background-color: #e53935 !important; /* kırmızı arka plan */
+  color: white !important;
+  font-size: 14px;
+  border-radius: 6px;
+  padding: 8px 16px;
+}
